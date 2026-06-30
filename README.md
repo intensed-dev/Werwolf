@@ -40,6 +40,11 @@
     <td>Lupus minor</td>
     <td>Wenn getötet, dürfen die Werwölfe 2 Opfer wählen</td>
   </tr>
+  <tr>
+    <td>1</td>
+    <td>Wolfsmann</td>
+    <td>Homo lupinus</td>
+    <td>Eine Seherin erkennt dich als Dorfbewohner</td>
   <tr><th colspan=4>Spezialrollen</th></tr>
   <tr>
     <td>1</td>
