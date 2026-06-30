@@ -7,7 +7,7 @@
     <th>Beschreibung</th>
   </tr>
   <tr>
-    <td colspan=4>Basisrollen</td>
+    <th colspan=4>Basisrollen</th>
   </tr>
   <tr>
     <td>Rest</td>
@@ -27,7 +27,7 @@
     <td>Venefica</td>
     <td>Wache jede Nacht auf und heile das Opfer oder töte jemanden (nur 1x pro Spiel jeweils)</td>
   </tr>
-  <tr><td colspan=4>Werwölfe</td></tr>
+  <tr><th colspan=4>Werwölfe</th></tr>
   <tr>
     <td>4 (1/5 der Spieler)</td>
     <td>Werwolf</td>
