@@ -53,6 +53,12 @@
     <td>Venator</td>
     <td>Stirbst du, kannst du eine weitere Person töten</td>
   </tr>
+  <tr>
+    <td>1</td>
+    <td>Dieb</td>
+    <td>Fur</td>
+    <td>Wähle eine Person und tausche Karten. Sie ist danach Werwolf</td>
+  </tr>
 </table>
 
 ## Reihenfolge
