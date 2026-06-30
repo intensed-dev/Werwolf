@@ -29,10 +29,29 @@
   </tr>
   <tr><th colspan=4>Werwölfe</th></tr>
   <tr>
-    <td>4 (1/5 der Spieler)</td>
+    <td>20%</td>
     <td>Werwolf</td>
     <td>Lupus</td>
     <td>Wache jede Nacht auf und töte eine Person</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Babywolf</td>
+    <td>Lupus minor</td>
+    <td>Wenn getötet, dürfen die Werwölfe 2 Opfer wählen</td>
+  </tr>
+  <tr><th colspan=4>Spezialrollen</th></tr>
+  <tr>
+    <td>1</td>
+    <td>Amor</td>
+    <td>Cupido</td>
+    <td>Wähle ein Paar. Stirbt ein Mitglied, stirbt das andere auch</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Jäger</td>
+    <td>Venator</td>
+    <td>Stirbst du, kannst du eine weitere Person töten</td>
   </tr>
 </table>
 
