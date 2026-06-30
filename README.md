@@ -13,7 +13,7 @@
     <td>Rest</td>
     <td>Dorfbewohner</td>
     <td>Civis</td>
-    <td>Keine Fähigkeiten</td>
+    <td><em>Keine Fähigkeiten</em></td>
   </tr>
   <tr>
     <td>1</td>
