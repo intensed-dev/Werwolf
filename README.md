@@ -45,6 +45,7 @@
     <td>Wolfsmann</td>
     <td>Homo lupinus</td>
     <td>Eine Seherin erkennt dich als Dorfbewohner</td>
+  </tr>
   <tr><th colspan=4>Spezialrollen</th></tr>
   <tr>
     <td>1</td>
